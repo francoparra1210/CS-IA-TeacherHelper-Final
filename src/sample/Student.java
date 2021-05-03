@@ -1,15 +1,11 @@
 package sample;
 
-public class Students {
+public class Student {
     private String SchoolCode;
     private String StudentsNames;
     private int FormYear;
 
-
-
-
-    public Students(String schoolCode, String studentName,
-                    int formYear)  {
+    public Student(String schoolCode, String studentName, int formYear)  {
         SchoolCode = schoolCode;
         StudentsNames = studentName;
         FormYear = formYear;
