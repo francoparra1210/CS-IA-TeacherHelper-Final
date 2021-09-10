@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS-IA-TeacherHelper-Final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS_IA_TeacherHelper_Final_jar</output-path>
+    <root id="archive" name="CS-IA-TeacherHelper-Final.jar">
+      <element id="module-output" name="CS-IA-TeacherHelper-Final" />
+    </root>
+  </artifact>
+</component>

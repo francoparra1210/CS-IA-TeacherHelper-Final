@@ -6,7 +6,7 @@ import javafx.collections.ObservableList;
 public class Section {
     ObservableList<Student> students = FXCollections.observableArrayList();
 
-    //sections is the same aclass. hereI have called it sections so it doesn't mess with the class keyword.
+    //sections are the same as a class. here I have called it sections so it doesn't mess with the class keyword.
 
     String name;
 
